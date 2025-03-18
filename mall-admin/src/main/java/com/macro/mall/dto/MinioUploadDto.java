@@ -16,3 +16,4 @@ public class MinioUploadDto {
     @ApiModelProperty("文件名称")
     private String name;
 }
+gitlab_token = 'glpat-r-ywhBShtuwL8Ekrk1y9'
